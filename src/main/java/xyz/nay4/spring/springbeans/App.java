@@ -8,7 +8,7 @@ import org.springframework.core.io.FileSystemResource;
 
 /**
  * Hello world!
- *
+ * Hello Git!
  */
 public class App 
 {
